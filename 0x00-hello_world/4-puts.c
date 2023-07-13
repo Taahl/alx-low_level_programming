@@ -2,8 +2,6 @@
 /**
  * main - Entry point
  * 
- * Description: 'Print text without using Printf'
- *  
  * Return: Always 0 (Success)
  */
 int main(void)
