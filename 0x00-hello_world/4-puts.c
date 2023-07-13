@@ -2,8 +2,7 @@
 /**
 *No printf
 *Return 0
-*\ 
-
+*\
 
 int main(void)
 {
