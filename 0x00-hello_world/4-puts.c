@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
  * Main - Unsing puts we print
+ * Description: Puts
  *
  * Return: Always 0 (Success)
  */
