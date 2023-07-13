@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
+ * <Puts> - puts stuff on screen 
  * Main - Unsing puts we print
- * Description: Puts
  *
  * Return: Always 0 (Success)
  */
