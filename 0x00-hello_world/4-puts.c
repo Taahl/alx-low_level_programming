@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*No printf
-*Return 0
+*Main - Not printf puts instead
+*Return : 0 as always
 */
 int main(void)
 {
