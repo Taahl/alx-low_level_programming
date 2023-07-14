@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * Main - program that prints a sentence 
+ * main - Entry point print sentence
  *
  * Return: Always 0 (Success)
  */
@@ -9,3 +9,4 @@ int main(void)
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
+
