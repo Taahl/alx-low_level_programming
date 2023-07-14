@@ -1,7 +1,6 @@
 #include<stdio.h>
 /**
- * Main - Using puts we print
- * Description: in puts we trust
+ * Main - program that prints a sentence 
  *
  * Return: Always 0 (Success)
  */
