@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * <Puts> - puts stuff on screen 
- * Main - Unsing puts we print
+ * Main - Using puts we print
+ * Description: in puts we trust
  *
  * Return: Always 0 (Success)
  */
