@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry point
- * description: all but q and e
- * return: Always 0 (Success)
+ * main - Print alphabe while skipping e and q
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
