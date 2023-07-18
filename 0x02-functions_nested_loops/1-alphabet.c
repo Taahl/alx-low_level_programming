@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Main Entry
+ * print_alphabet - what the name implies
  *
  * Description: 'prins lower case alph'
  *
