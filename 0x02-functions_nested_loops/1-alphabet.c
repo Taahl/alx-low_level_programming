@@ -1,9 +1,8 @@
 #include "main.h"
 /**
- * main - print alphabet in lower case
+ * main - Main Entry
  *
  * Description: 'prins lower case alph'
- * @parameter: param description
  *
  * Return: 0 (Success)
  */
