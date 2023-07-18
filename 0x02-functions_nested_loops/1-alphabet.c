@@ -2,6 +2,9 @@
 /**
  * main - print alphabet in lower case
  *
+ * Description: 'prins lower case alph'
+ * @parameter: param description
+ *
  * Return: 0 (Success)
  */
 void print_alphabet(void)
